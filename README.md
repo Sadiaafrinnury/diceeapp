@@ -13,3 +13,5 @@ Technologies Used:
 •	Flutter framework for cross-platform mobile development.
 •	Dart programming language.
 
+Screensort/Appview
+https://github.com/Sadiaafrinnury/diceeapp/assets/70070134/9aa92333-6768-4cc2-af76-3795b9bc7f47
